@@ -1,0 +1,297 @@
+{
+  "dogBreeds": [
+    {
+      "id": "1",
+      "breed": "French Bulldog",
+      "rank": 1,
+      "origin": "France",
+      "size": "Small to Medium",
+      "temperament": [
+        "Playful",
+        "Adaptable",
+        "Smart"
+      ],
+      "lifespan": "10/12 years",
+      "image": "./images/FB.jpg"
+    },
+    {
+      "id": "2",
+      "breed": "Labrador Retriever",
+      "rank": 2,
+      "origin": "Canada",
+      "size": "Large",
+      "temperament": [
+        "Friendly",
+        "Outgoing",
+        "Gentle"
+      ],
+      "lifespan": "10/12 years",
+      "image": "./images/Rott.jpg"
+    },
+    {
+      "id": "3",
+      "breed": "Golden Retriever",
+      "rank": 3,
+      "origin": "Scotland",
+      "size": "Large",
+      "temperament": [
+        "Intelligent",
+        "Friendly",
+        "Reliable"
+      ],
+      "lifespan": "10/12 years",
+      "image": "./images/golden.jpg"
+    },
+    {
+      "id": "4",
+      "breed": "German Shepherd",
+      "rank": 4,
+      "origin": "Germany",
+      "size": "Large",
+      "temperament": [
+        "Confident",
+        "Courageous",
+        "Smart"
+      ],
+      "lifespan": "9/13 years",
+      "image": "./images/German.jpg"
+    },
+    {
+      "id": "5",
+      "breed": "Poodle",
+      "rank": 5,
+      "origin": "Germany/France",
+      "size": "Small to Large",
+      "temperament": [
+        "Intelligent",
+        "Active",
+        "Alert"
+      ],
+      "lifespan": "12/15 years",
+      "image": "./images/poodle.jpg"
+    },
+    {
+      "id": "6",
+      "breed": "Dachshund",
+      "rank": 6,
+      "origin": "Germany",
+      "size": "Small",
+      "temperament": [
+        "Curious",
+        "Brave",
+        "Clever"
+      ],
+      "lifespan": "12/16 years",
+      "image": "./images/hotdog.jpg"
+    },
+    {
+      "id": "7",
+      "breed": "Beagle",
+      "rank": 7,
+      "origin": "England",
+      "size": "Small to Medium",
+      "temperament": [
+        "Cheerful",
+        "Curious",
+        "Friendly"
+      ],
+      "lifespan": "12/15 years",
+      "image": "./images/beagles.jpg"
+    },
+    {
+      "id": "8",
+      "breed": "Rottweiler",
+      "rank": 8,
+      "origin": "Germany",
+      "size": "Large",
+      "temperament": [
+        "Loyal",
+        "Confident",
+        "Protective"
+      ],
+      "lifespan": "9/10 years",
+      "image": "./images/Rott.jpg"
+    },
+    {
+      "id": "9",
+      "breed": "Bulldog",
+      "rank": 9,
+      "origin": "England",
+      "size": "Medium",
+      "temperament": [
+        "Docile",
+        "Willful",
+        "Friendly"
+      ],
+      "lifespan": "8/10 years",
+      "image": "./images/bulldog.jpg"
+    },
+    {
+      "id": "10",
+      "breed": "German Shorthaired Pointer",
+      "rank": 10,
+      "origin": "Germany",
+      "size": "Medium to Large",
+      "temperament": [
+        "Friendly",
+        "Smart",
+        "Willing to Please"
+      ],
+      "lifespan": "10/12 years",
+      "image": "./images/German.jpg"
+    }
+  ],
+  "dogs": [
+    {
+      "id": "1",
+      "breed": "Labrador Retriever",
+      "origin": "Canada",
+      "temperament": "Gentle and Intelligent"
+    },
+    {
+      "id": "2",
+      "breed": "German Shepherd",
+      "origin": "Germany",
+      "temperament": "Loyal and Courageous"
+    },
+    {
+      "id": "3",
+      "breed": "Golden Retriever",
+      "origin": "Scotland",
+      "temperament": "Friendly and Intelligent"
+    },
+    {
+      "id": "4",
+      "breed": "French Bulldog",
+      "origin": "France",
+      "temperament": "Adaptable and Playful"
+    },
+    {
+      "id": "5",
+      "breed": "Bulldog",
+      "origin": "England",
+      "temperament": "Docile and Willful"
+    },
+    {
+      "id": "6",
+      "breed": "Poodle",
+      "origin": "Germany/France",
+      "temperament": "Active and Alert"
+    },
+    {
+      "id": "7",
+      "breed": "Beagle",
+      "origin": "England",
+      "temperament": "Merry and Curious"
+    },
+    {
+      "id": "8",
+      "breed": "Rottweiler",
+      "origin": "Germany",
+      "temperament": "Confident and Fearless"
+    },
+    {
+      "id": "9",
+      "breed": "Dachshund",
+      "origin": "Germany",
+      "temperament": "Clever and Brave"
+    },
+    {
+      "id": "10",
+      "breed": "German Shorthaired Pointer",
+      "origin": "Germany",
+      "temperament": "Friendly and Smart"
+    },
+    {
+      "id": "11",
+      "breed": "Yorkshire Terrier",
+      "origin": "England",
+      "temperament": "Affectionate and Spirited"
+    },
+    {
+      "id": "12",
+      "breed": "Boxer",
+      "origin": "Germany",
+      "temperament": "Fun-Loving and Loyal"
+    },
+    {
+      "id": "13",
+      "breed": "Siberian Husky",
+      "origin": "Siberia",
+      "temperament": "Friendly and Outgoing"
+    },
+    {
+      "id": "14",
+      "breed": "Doberman Pinscher",
+      "origin": "Germany",
+      "temperament": "Alert and Fearless"
+    },
+    {
+      "id": "15",
+      "breed": "Australian Shepherd",
+      "origin": "United States",
+      "temperament": "Energetic and Intelligent"
+    },
+    {
+      "id": "16",
+      "breed": "Great Dane",
+      "origin": "Germany",
+      "temperament": "Gentle and Friendly"
+    },
+    {
+      "id": "17",
+      "breed": "Pembroke Welsh Corgi",
+      "origin": "Wales",
+      "temperament": "Playful and Alert"
+    },
+    {
+      "id": "18",
+      "breed": "Cavalier King Charles Spaniel",
+      "origin": "England",
+      "temperament": "Affectionate and Graceful"
+    },
+    {
+      "id": "19",
+      "breed": "Miniature Schnauzer",
+      "origin": "Germany",
+      "temperament": "Friendly and Obedient"
+    },
+    {
+      "id": "20",
+      "breed": "Shih Tzu",
+      "origin": "Tibet/China",
+      "temperament": "Outgoing and Sweet"
+    },
+    {
+      "id": "21",
+      "breed": "Boston Terrier",
+      "origin": "United States",
+      "temperament": "Lively and Intelligent"
+    },
+    {
+      "id": "22",
+      "breed": "Havanese",
+      "origin": "Cuba",
+      "temperament": "Cheerful and Gentle"
+    },
+    {
+      "id": "23",
+      "breed": "Bernese Mountain Dog",
+      "origin": "Switzerland",
+      "temperament": "Calm and Strong"
+    },
+    {
+      "id": "24",
+      "breed": "Pomeranian",
+      "origin": "Germany/Poland",
+      "temperament": "Inquisitive and Lively"
+    },
+    {
+      "id": "25",
+      "breed": "Border Collie",
+      "origin": "Scotland/England",
+      "temperament": "Energetic and Smart"
+    }
+  ],
+  "favorites": []
+}
